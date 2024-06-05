@@ -1,0 +1,4 @@
+cowin 90
+covishield 300
+rabies 190
+dengue 100

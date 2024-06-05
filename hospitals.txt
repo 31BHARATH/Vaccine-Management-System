@@ -1,0 +1,3 @@
+apollo,H#2001,mysore,571302,cowin,60,covishield,20,rabies,10,
+manipal,H#2002,kochi,571303,cowin,30,covishield,50,
+new,H#2003,bangalore,571302,cowin,20,
